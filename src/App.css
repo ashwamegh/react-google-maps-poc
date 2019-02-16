@@ -30,3 +30,15 @@
     transform: rotate(360deg);
   }
 }
+
+section{
+  height: 100vh;
+}
+
+.section-header{
+  color: #939393;
+}
+
+.section-content{
+  height: 90vh;
+}
